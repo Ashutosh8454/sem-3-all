@@ -1,0 +1,3 @@
+C:/College/Sem 3/Data Structure/Topics By program/Linklist/Singly Linkedlist/cmake-build-debug/CMakeFiles/Singly_Linkedlist.dir
+C:/College/Sem 3/Data Structure/Topics By program/Linklist/Singly Linkedlist/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/College/Sem 3/Data Structure/Topics By program/Linklist/Singly Linkedlist/cmake-build-debug/CMakeFiles/rebuild_cache.dir

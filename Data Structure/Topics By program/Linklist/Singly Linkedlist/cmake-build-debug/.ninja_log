@@ -1,0 +1,8 @@
+# ninja log v5
+38	668	6628050413563420	CMakeFiles/Singly_Linkedlist.dir/Insertion.c.obj	c6f552a636db0a37
+1	813	6628050413563420	CMakeFiles/Singly_Linkedlist.dir/addnodeend.c.obj	7cdda4d64aa74605
+44	872	6628050414656906	CMakeFiles/Singly_Linkedlist.dir/CreateAndDisplay.c.obj	94efd61aff024c2f
+32	890	6628050413719645	CMakeFiles/Singly_Linkedlist.dir/concatenate.c.obj	244c25631524e3a5
+56	913	6628050415594196	CMakeFiles/Singly_Linkedlist.dir/menudriven.c.obj	63675a78aa5e10ba
+50	951	6628050416687687	CMakeFiles/Singly_Linkedlist.dir/delete.c.obj	7a9f3bc26c9d78d
+674	1089	6628050418249808	CMakeFiles/Singly_Linkedlist.dir/sum.c.obj	7750fa6771bc8e61
